@@ -1,0 +1,23 @@
+.div1 {
+  background-color: blue;
+  padding: 10px;
+}
+.div1 button {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border: 0;
+}
+.div1 button:hover {
+  background-color: blue;
+  border: 2px solid black;
+}
+input {
+  width: 100%;
+}
+.div1 .bRed {
+  background-color: rgb(77, 14, 14);
+}
